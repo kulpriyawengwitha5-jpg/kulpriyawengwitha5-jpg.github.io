@@ -9,13 +9,13 @@ body {
 
 header{
   background: #4CAF50;
-  color:white;
-  padding:20px0;
-  text-align:centet;
+  color: white;
+  padding: 20px0;
+  text-align: centet;
 }
 
 header h1{
-  marhin: 0;
+  margin: 0;
 }
 
 header p {
